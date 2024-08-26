@@ -1,5 +1,5 @@
 import pytest
-from SAMP_SOL_Lab_0 import lab0Question1, lab0Question2, lab0Question3
+from START_Lab_0 import lab0Question1, lab0Question2, lab0Question3
 
 # Test cases for lab0Question1
 def test_lab0Question1_test_1():
